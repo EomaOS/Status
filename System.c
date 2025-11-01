@@ -1,3 +1,3 @@
 #include <stdio.h>
 printf("system:EomaOS");
-printf("in")
+printf("in:https://github.com/EomaOS");
